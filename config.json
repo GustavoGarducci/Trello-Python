@@ -1,0 +1,281 @@
+{
+    "email": "misp@mispengenharia.com.br",
+    "senha": "tu8pXFq3@uZiTp8",
+    "tarefas": [
+        {
+            "ativo": false, 
+            "id": 318275,
+            "construtoras": "BILD",
+            "obras": 
+            [
+
+                    {"B089 - NID (SANTA CATARINA 2":
+                    [ 
+                        {"ACU - Acústica":
+                        
+                        [	"01 - ANTEPROJETO",
+                            "02 - PRÉ-EXECUTIVO",
+                            "03 - EXECUTIVO",
+                            "04 - LIBERADO PARA OBRA"
+                        ]},
+                        {"ARC - Ar-condicionado":
+                        [	"01 - ANTEPROJETO",
+                            "02 - PRÉ-EXECUTIVO",
+                            "03 - EXECUTIVO",
+                            "04 - LIBERADO PARA OBRA"
+                        ]},
+                        {"ARQ - Arquitetura":
+                        [	"01 - ANTEPROJETO",
+                        "02 - PRÉ-EXECUTIVO",
+                        "03 - EXECUTIVO",
+                        "04 - LIBERADO PARA OBRA"
+                        ]},
+                        {"ASP - Aspiração Central":[]},
+                        {"AST - Assistência Técnica - Acervo":[]},
+                        {"AUT - Automação":
+                        [	"01 - ANTEPROJETO",
+                        "02 - PRÉ-EXECUTIVO",
+                        "03 - EXECUTIVO",
+                        "04 - LIBERADO PARA OBRA"
+                        ]},
+                        
+                        {"BDS - Bild Design":[]},
+                        {"BILD":[]},
+                        {"COM - Comunicação Visual":[]},
+                        {"CON - Consultoria":[]},
+                        {"COO - Coordenação":[]},
+                        {"COZ - Cozinha Industrial":[]},
+                        {"DEC - Decoração de Interiores":[]},
+                        {"DRE - Drenagem":[]},
+                        {"ELV - Elevadores":[]},
+                        {"EME - Estrutura Metálica":[]},
+                        {"ESQ - Esquadria de aluminio":[]},
+                        {"EST - Estrutura":[]},
+                        {"EXA - Exaustão de Churrasqueira":[]},
+                        {"FAC - Fachada":[]},
+                        {"FOT - Fotovoltaico":[]},
+                        {"FUN - Fundação":[]},
+                        {"GAS - Gás":[]},
+                        {"IMP - Impermeabilização":[]},
+                        {"INC - Combate de Incêndio":[]},
+                        {"LEV - Levantamento Planialtimétrico":[]},
+                        {"LUM - Luminotécnico":[]},
+                        {"PIS - Piso do Último SS":[]},
+                        {"PRE - Pressurização":[]},
+                        {"PSG - Paisagismo":[]},
+                        {"REU - Reuso de Água":[]},
+                        {"SEG - Segurança":[]},
+                        {"SON - Sondagem":[]},
+                        {"VED - Vedação":[]}
+
+                    ]},
+
+
+                    {"B901 - GETEC BILD - PADRONIZAÇÃO TÉCNICA":
+                    
+                    [ 
+                        {"ACU - Acústica":[]},
+                        {"ARC - Ar-condicionado":[]},
+                        {"ARQ - Arquitetura":[]},
+                        {"ASP - Aspiração Central":[]},
+                        {"AST - Assistência Técnica - Acervo":[]},
+                        {"AUT - Automação":[]},
+                        {"BDS - Bild Design":[]},
+                        {"BILD":[]},
+                        {"COM - Comunicação Visual":[]},
+                        {"CON - Consultoria":[]},
+                        {"COO - Coordenação":[]},
+                        {"COZ - Cozinha Industrial":[]},
+                        {"DEC - Decoração de Interiores":[]},
+                        {"DRE - Drenagem":[]},
+                        {"ELV - Elevadores":[]},
+                        {"EME - Estrutura Metálica":[]},
+                        {"ESQ - Esquadria de aluminio":[]},
+                        {"EST - Estrutura":[]},
+                        {"EXA - Exaustão de Churrasqueira":[]},
+                        {"FAC - Fachada":[]},
+                        {"FOT - Fotovoltaico":[]},
+                        {"FUN - Fundação":[]},
+                        {"GAS - Gás":[]},
+                        {"IMP - Impermeabilização":[]},
+                        {"INC - Combate de Incêndio":[]},
+                        {"LEV - Levantamento Planialtimétrico":[]},
+                        {"LUM - Luminotécnico":[]},
+                        {"PIS - Piso do Último SS":[]},
+                        {"PRE - Pressurização":[]},
+                        {"PSG - Paisagismo":[]},
+                        {"REU - Reuso de Água":[]},
+                        {"SEG - Segurança":[]},
+                        {"SON - Sondagem":[]},
+                        {"VED - Vedação":[]}
+
+                    ]
+                
+                
+                
+                
+                
+                
+                }
+                    
+                    
+                    
+                    
+                    
+                    
+
+                                
+            ]
+        },
+        {
+            "ativo": false, 
+            "id": 494280,
+            "construtoras": "CP-PERPLAN",
+            "obras": [
+
+            ]
+        },
+
+        {
+            "ativo": false, 
+            "id": 353438,
+            "construtoras": "Gafisa-Projetos",
+            "obras": [
+
+            ]
+        },
+
+        {
+            "ativo": false, 
+            "id": 482185,
+            "construtoras": "GREMP3",
+            "obras": [
+
+            ]
+        },
+
+        {
+            "ativo": false, 
+            "id": 406287,
+            "construtoras": "Hernandez Construtora",
+            "obras": [
+
+            ]
+        },
+
+        {
+            "ativo": false, 
+            "id": 445280,
+            "construtoras": "Mamute Incorporadora",
+            "obras": [
+
+            ]
+        },
+
+        {
+            "ativo": false, 
+            "id": 571688,
+            "construtoras": "MARQUISE",
+            "obras": [
+
+            ]
+        },
+
+        {
+            "ativo": false, 
+            "id": 549611,
+            "construtoras": "SEED INCORP",
+            "obras": [
+
+            ]
+        },
+
+        {
+            "ativo": false, 
+            "id": 366913,
+            "construtoras": "SOLV",
+            "obras": [
+
+            ]
+        },
+
+
+        {
+            "ativo": false, 
+            "id": 371906,
+            "construtoras": "Tenda - Engenharia de Produto",
+            "obras": [
+                { "construtoras": "Arquitetura" },
+                { "construtoras": "Academia" },
+                { "construtoras": "Estrutura" }
+            ]
+        },
+
+
+        {
+            "ativo": false, 
+            "id": 386953,
+            "construtoras": "Tenda-Projetos",
+            "obras": [
+                { "construtoras": "Arquitetura" },
+                { "construtoras": "Academia" },
+                { "construtoras": "Estrutura" }
+            ]
+        },  
+    
+
+        {
+            "ativo": false, 
+            "id": 352880,
+            "construtoras": "Tenda-Tipologias",
+            "obras": [
+                { "construtoras": "Arquitetura" },
+                { "construtoras": "Academia" },
+                { "construtoras": "Estrutura" }
+            ]
+        },  
+
+        {
+            "ativo": false, 
+            "id": 522410,
+            "construtoras": "Trisul - Construtora",
+            "obras": [
+                { "construtoras": "Arquitetura" },
+                { "construtoras": "Academia" },
+                { "construtoras": "Estrutura" }
+            ]
+        },
+
+        {
+            "ativo": true, 
+            "id": 301004,
+            "construtoras": "Trisul - Incorporação e Construção",
+            "obras": [
+                { "construtoras": "Arquitetura" },
+                { "construtoras": "Academia" },
+                { "construtoras": "Estrutura" }
+            ]
+        },   
+
+        {
+            "ativo": false, 
+            "id": 449568,
+            "construtoras": "Trisul - Incorporadora",
+            "obras": [
+                { "construtoras": "Arquitetura" },
+                { "construtoras": "Academia" },
+                { "construtoras": "Estrutura" }
+            ]
+        } ,
+        {
+            "ativo": false, 
+            "id": 389993,
+            "construtoras": "VERO INCORPORADORA",
+            "obras": [
+                { "construtoras": "Arquitetura" },
+                { "construtoras": "Academia" },
+                { "construtoras": "Estrutura" }
+            ]
+        }  
+    ]
+}
